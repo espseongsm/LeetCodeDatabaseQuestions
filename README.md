@@ -1,4 +1,4 @@
-# [Solutions for LeetCode DataBase Questions](https://github.com/espseongsm/LeetCodeDatabaseQuestions/blob/main/SolutionsForLeetCodeDatabaseQuestion.ipynb)
+# [Solutions for LeetCode DataBase Questions](https://github.com/espseongsm/LeetCodeDatabaseQuestions/blob/master/SolutionsForLeetCodeDatabaseSolutions.ipynb)
 ## 180. Consecutive Numbers
 ## 184. Department Highest Salary
 ## 177. Nth Highest Salary
